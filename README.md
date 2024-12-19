@@ -62,7 +62,7 @@ Fascinated by securing the digital realm, I develop solutions to protect against
 Creating innovative and interactive web tools, such as **web_tool_iot**, allows me to merge creativity with technology.
 
 ### **App Development**
-I enjoy building mobile applications and experimenting with emerging technologies through projects like **APPMOBILE**.
+I enjoy building mobile applications and experimenting with emerging technologies through projects like **uiux_travel_mate**.
 
 ### **Artificial Intelligence**
 Exploring the vast potential of AI, I work on projects involving machine learning, deep learning, and intelligent automation. Leveraging tools like Python and Jupyter Notebook, I aim to develop AI solutions that revolutionize industries and enhance decision-making processes.
