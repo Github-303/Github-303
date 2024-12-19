@@ -9,12 +9,12 @@ A tech enthusiast passionate about **coding** and **exploration**! I've engaged 
 ## 🛠️ My Coding Journey
 
 ### **Highlighted Projects**
-- **[IDS_NB_SVM_ANN](#)**: Dive into advanced intrusion detection systems leveraging SVM and ANN models.
-- **[web_tool_iot](#)**: A cutting-edge IoT-integrated web tool for modern applications.
-- **[DMS_encrypt_decryption](#)**: Encryption and decryption solutions for secure document management systems.
-- **[APPMOBILE](#)**: Mobile app development exploring innovative tech stacks.
+- **[IDS_NB_SVM_ANN](https://github.com/Github-303/IDS_NB_SVM_ANN)**: Dive into advanced intrusion detection systems leveraging SVM and ANN models.
+- **[web_tool_iot](https://github.com/Github-303/web_tool_iot)**: A cutting-edge IoT-integrated web tool for modern applications.
+- **[DMS_encrypt_decryption](https://github.com/Github-303/DMS_encrypt_decryption)**: Encryption and decryption solutions for secure document management systems.
+- **[uiux_travel_mate](https://github.com/Github-303/uiux_travel_mate)**: Mobile app development exploring innovative tech stacks.
 
-Check out these and more on my [GitHub Repositories](#).
+Check out these and more on my [GitHub Repositories](https://github.com/Github-303).
 
 ### Skill Set
 I’m proficient in a variety of programming languages and tools, including:
