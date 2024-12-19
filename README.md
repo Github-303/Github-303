@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 Hello, I'm **Github-303**
-A tech enthusiast passionate about **coding** and **exploration**! Since joining GitHub in **March 2020**, I've made **154 commits** and engaged in exciting projects across **network security**, **web development**, and **app development**. Let’s embark on an inspiring journey into the world of technology together! 🚀
+A tech enthusiast passionate about **coding** and **exploration**!I've engaged in exciting projects across **network security**, **web development**, and **app development**. Let’s embark on an inspiring journey into the world of technology together! 🚀
 
 ---
 
@@ -16,17 +16,25 @@ A tech enthusiast passionate about **coding** and **exploration**! Since joining
 
 Check out these and more on my [GitHub Repositories](#).
 
-### **Skill Set**
+### Skill Set
 I’m proficient in a variety of programming languages and tools, including:
 
-- **Python** 🐍
-- **Java** ☕
-- **JavaScript** 📜
-- **HTML/CSS** 🌐
-- **Jupyter Notebook** 📓
-- **Makefile** ⚙️
+- **Python** 🐍  
+- **Java** ☕  
+- **JavaScript** 📜  
+- **HTML/CSS** 🌐  
+- **Jupyter Notebook** 📓  
+- **Makefile** ⚙️  
 
-![Python Badge](#) ![Java Badge](#) ![JavaScript Badge](#) ![HTML Badge](#) ![CSS Badge](#) ![Jupyter Badge](#) ![Makefile Badge](#)
+Here are my badges:  
+
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
+![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
+![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
+![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)  
+![Makefile Badge](https://img.shields.io/badge/-Makefile-064F8C?style=flat-square)
 
 ---
 
