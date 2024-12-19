@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 Hello, I'm **Github-303**
-A tech enthusiast passionate about **coding** and **exploration**!I've engaged in exciting projects across **network security**, **web development**, and **app development**. Let’s embark on an inspiring journey into the world of technology together! 🚀
+A tech enthusiast passionate about **coding** and **exploration**! I've engaged in exciting projects across **network security**, **web development**, and **app development**. Let’s embark on an inspiring journey into the world of technology together! 🚀
 
 ---
 
@@ -91,7 +91,7 @@ Stay tuned for these exciting projects on my profile! ✨
 I’m always open to **collaboration**, **project ideas**, and **opportunities**. Feel free to reach out and let’s make great things happen together! 🌟
 
 - ✉️ Email: [Bit220084@st.cmc-u.edu.vn](#)
-- 🌐 Blog: [https://ter.github.io](#)
+- 🌐 Blog: [https://ter.github.io](https://ter.github.io)
 - 📍 Location: Earth
 
 Let’s connect and bring ideas to life! 🚀
