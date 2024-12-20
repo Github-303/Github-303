@@ -1,7 +1,7 @@
 
-# Welcome to My GitHub Profile!
+# Greetings from My GitHub Space!
 
-## 👋 Hello, I'm **Github-303**
+## 👋 Hello, I'm **Ter**
 A tech enthusiast passionate about **coding** and **exploration**! I've engaged in exciting projects across **network security**, **web development**, and **app development**. Let’s embark on an inspiring journey into the world of technology together! 🚀
 
 ---
