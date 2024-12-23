@@ -81,8 +81,8 @@ Stay tuned for these exciting projects on my profile! ✨
 ## 🤝 Let’s Collaborate!
 I’m always open to **collaboration**, **project ideas**, and **opportunities**. Feel free to reach out and let’s make great things happen together! 🌟
 
-- ✉️ Email: [Bit220084@st.cmc-u.edu.vn](#)
-- 🌐 Blog: [https://ter.github.io](https://ter.github.io)
+- ✉️ Email: [Bit220084@st.cmcu.edu.vn](#)
+- 🌐 Blog: [Go to](https://github-303.github.io/nodejs_blog/)
 - 📍 Location: Earth
 
 Let’s connect and bring ideas to life! 🚀
