@@ -69,27 +69,23 @@ Stay tuned for these exciting projects on my profile! ✨
 
 ---
 
-## 📊 GitHub Stats
+# 🌟
 
 <div align="center">
-  
-# 🌟 IDS Analytics & Detection Tool
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A11B&center=true&vCenter=true&random=false&width=435&lines=AI+%2B+CNN+Detection;Smart+Network+Analysis;Security+Made+Simple" alt="Typing SVG" /></a>
-
-![](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=github-303&color=brightgreen&style=for-the-badge)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=github-303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-303&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ## 🏆 GitHub Profile Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&column=7&no-frame=true&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=github-303&theme=tokyonight&column=7&no-frame=true&no-bg=true">
 </p>
 
 ## 🔥 Streak Stats
@@ -105,34 +101,9 @@ Stay tuned for these exciting projects on my profile! ✨
 ![](https://img.shields.io/badge/Tool-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/AI-GPT--3.5-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
 
-## 🗂️ Highlight Projects
-
-<p align="center">
-<a href="https://github.com/yourusername/ids-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ids-tool&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/yourusername/network-security">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=network-security&theme=tokyonight&hide_border=true" />
-</a>
-</p>
-
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)
-
-## 🌐 Connect With Us
-
-<p align="center">
-  <a href="YOUR_LINK">
-    <img src="https://img.shields.io/badge/Website-IDS_Tool-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINK">
-    <img src="https://img.shields.io/badge/HuggingFace-Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINK">
-    <img src="https://img.shields.io/badge/Documentation-Wiki-green?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 <p align="center">
