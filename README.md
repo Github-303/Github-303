@@ -70,7 +70,8 @@ Stay tuned for these exciting projects on my profile! ✨
 ---
 
 <div align="center">
-# 🌟
+  
+## 🌟
   
 ![](https://komarev.com/ghpvc/?username=github-303&color=brightgreen&style=for-the-badge)
 
