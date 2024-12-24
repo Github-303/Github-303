@@ -69,10 +69,8 @@ Stay tuned for these exciting projects on my profile! ✨
 
 ---
 
-# 🌟
-
 <div align="center">
-
+# 🌟
 ![](https://komarev.com/ghpvc/?username=github-303&color=brightgreen&style=for-the-badge)
 
 ## 📊 GitHub Stats
@@ -91,7 +89,7 @@ Stay tuned for these exciting projects on my profile! ✨
 ## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=github-303&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=github-303&theme=tokyonight&hide_border=true">
 </p>
 <!-- Alternative style -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=github-303&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats) -->
