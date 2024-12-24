@@ -91,19 +91,12 @@ Stay tuned for these exciting projects on my profile! ✨
 ## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=github-303&theme=tokyonight&hide_border=true">
 </p>
-
-## 🛠️ Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tool-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/AI-GPT--3.5-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=github-303&theme=tokyo-night&hide_border=true)
 
 ---
 <p align="center">
