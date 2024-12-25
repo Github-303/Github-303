@@ -21,8 +21,9 @@ I’m proficient in a variety of programming languages and tools, including:
 
 - **Python** 🐍  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
 - **Java** ☕  ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
-- **JavaScript** 📜  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-- **HTML/CSS** 🌐  ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
+- **JavaScript** 📜  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+- **SQL** 🗄️ ![SQL Badge](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
+- **NoSQL** 📊 ![NoSQL Badge](https://img.shields.io/badge/NoSQL-Not_Only_SQL-green)
 - **Jupyter Notebook** 📓  ![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 - **Makefile** ⚙️  ![Makefile Badge](https://img.shields.io/badge/-Makefile-064F8C?style=flat-square)
 - **Ubuntu** 🐧  ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
@@ -39,7 +40,6 @@ I’m proficient in a variety of programming languages and tools, including:
 - **Python**: Versatile for data analysis and web development.
 - **Java**: Ideal for building robust, scalable applications.
 - **JavaScript**: Powers dynamic and interactive web applications.
-- **HTML/CSS**: Essential for crafting beautiful and functional websites.
 - **Jupyter Notebook**: Perfect for data science and machine learning exploration.
 
 ---
