@@ -22,27 +22,12 @@ I’m proficient in a variety of programming languages and tools, including:
 - **Python** 🐍  ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
 - **Java** ☕  ![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
 - **JavaScript** 📜  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-- **SQL** 🗄️ ![SQL Badge](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
-- **NoSQL** 📊 ![NoSQL Badge](https://img.shields.io/badge/NoSQL-Not_Only_SQL-green)
+- **SQL** 🗄️ ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat-square)
+- **NoSQL** 📊 ![NoSQL Badge](https://img.shields.io/badge/NoSQL-Not_Only_SQL-4479A1?logo=nodedotjs&logoColor=white&style=flat-square)
 - **Jupyter Notebook** 📓  ![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 - **Makefile** ⚙️  ![Makefile Badge](https://img.shields.io/badge/-Makefile-064F8C?style=flat-square)
 - **Ubuntu** 🐧  ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 
----
-
-## 🔍 Activities & Insights
-
-### **GitHub Presence**
-- **Repositories**: Created 8 public repositories and contributed to 1 other project.
-- **Engagement**: While my network currently has zero followers, I am committed to collaboration and sharing knowledge.
-
-### **Languages Used**
-- **Python**: Versatile for data analysis and web development.
-- **Java**: Ideal for building robust, scalable applications.
-- **JavaScript**: Powers dynamic and interactive web applications.
-- **Jupyter Notebook**: Perfect for data science and machine learning exploration.
-
----
 
 ## 🌐 Interests & Expertise
 
