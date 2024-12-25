@@ -1,7 +1,10 @@
-
 # Greetings from My GitHub Space!
 
-## 👋 Hello, I'm **Ter**
+## 🌍 Language: [🇺🇸 EN](#en-version) | [🇻🇳 VI](#vi-version)
+
+---
+
+## <a id="en-version"></a>👋 Hello, I'm **Ter**
 A tech enthusiast passionate about **coding** and **exploration**! I've engaged in exciting projects across **network security**, **web development**, and **app development**. Let’s embark on an inspiring journey into the world of technology together! 🚀
 
 ---
@@ -28,6 +31,7 @@ I’m proficient in a variety of programming languages and tools, including:
 - **Makefile** ⚙️  ![Makefile Badge](https://img.shields.io/badge/-Makefile-064F8C?style=flat-square)
 - **Ubuntu** 🐧  ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 
+---
 
 ## 🌐 Interests & Expertise
 
@@ -53,6 +57,63 @@ Exploring the vast potential of AI, I work on projects involving machine learnin
 Stay tuned for these exciting projects on my profile! ✨
 
 ---
+
+## <a id="vi-version"></a>👋 Xin chào, tôi là **Ter**
+Một người đam mê công nghệ, yêu thích **lập trình** và **khám phá**! Tôi đã tham gia nhiều dự án thú vị về **bảo mật mạng**, **phát triển web**, và **phát triển ứng dụng**. Hãy cùng tôi bước vào hành trình khám phá thế giới công nghệ đầy cảm hứng! 🚀
+
+---
+
+## 🛠️ Hành Trình Lập Trình Của Tôi
+
+### **Dự án tiêu biểu**
+- **[IDS_NB_SVM_ANN](https://github.com/Github-303/IDS_NB_SVM_ANN)**: Khám phá hệ thống phát hiện xâm nhập nâng cao sử dụng mô hình SVM và ANN.
+- **[web_tool_iot](https://github.com/Github-303/web_tool_iot)**: Công cụ web tích hợp IoT tiên tiến cho các ứng dụng hiện đại.
+- **[DMS_encrypt_decryption](https://github.com/Github-303/DMS_encrypt_decryption)**: Giải pháp mã hóa và giải mã để bảo mật hệ thống quản lý tài liệu.
+- **[uiux_travel_mate](https://github.com/Github-303/uiux_travel_mate)**: Phát triển ứng dụng di động khám phá các công nghệ tiên tiến.
+
+Khám phá thêm tại [Kho GitHub của tôi](https://github.com/Github-303).
+
+### Bộ Kỹ Năng
+Tôi thành thạo nhiều ngôn ngữ lập trình và công cụ, bao gồm:
+
+- **Python** 🐍  
+- **Java** ☕  
+- **JavaScript** 📜  
+- **SQL** 🗄️  
+- **NoSQL** 📊  
+- **Jupyter Notebook** 📓  
+- **Makefile** ⚙️  
+- **Ubuntu** 🐧  
+
+---
+
+## 🌐 Sở Thích và Chuyên Môn
+
+### **Bảo Mật Mạng**
+Tôi phát triển các giải pháp bảo mật để bảo vệ chống lại các mối đe dọa mạng không ngừng tiến hóa. Các dự án như **IDS_NB_SVM_ANN** là minh chứng cho sự cống hiến của tôi.
+
+### **Phát Triển Web**
+Tôi yêu thích tạo ra các công cụ web sáng tạo và tương tác, như dự án **web_tool_iot**, kết hợp sáng tạo và công nghệ.
+
+### **Phát Triển Ứng Dụng**
+Tôi thích xây dựng các ứng dụng di động và thử nghiệm với công nghệ mới thông qua các dự án như **uiux_travel_mate**.
+
+### **Trí Tuệ Nhân Tạo**
+Tôi khám phá tiềm năng to lớn của AI và làm việc trên các dự án liên quan đến machine learning, deep learning và tự động hóa thông minh.
+
+---
+
+## 🎯 Mục Tiêu Sắp Tới
+1. **Blockchain x AI**: Phát triển hệ thống xác minh danh tính số không thể bị giả mạo.
+2. **AI cho An Ninh**: Huấn luyện mô hình AI để xác định và chặn các cuộc tấn công phishing nhanh chóng.
+3. **Mã Hóa Chống Lại Máy Tính Lượng Tử**: Khám phá các phương pháp mã hóa có khả năng chống lại máy tính lượng tử.
+
+Hãy đón chờ những dự án thú vị này trên hồ sơ của tôi! ✨
+
+---
+
+## 🌍 Switch back to: [🇺🇸 EN](#en-version) | [🇻🇳 VI](#vi-version)
+
 
 <div align="center">
   
