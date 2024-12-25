@@ -23,8 +23,8 @@ I’m proficient in a variety of programming languages and tools, including:
 - **JavaScript** 📜  ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 - **SQL** 🗄️ ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat-square)
 - **NoSQL** 📊 ![NoSQL Badge](https://img.shields.io/badge/NoSQL-4479A1?logo=nodedotjs&logoColor=white&style=flat-square)
-- **Anaconda** 📓  ![Jupyter Badge](https://img.shields.io/badge/-Anaconda-F37626?logo=anaconda&logoColor=white&style=flat-square)
-- **Makefile** ⚙️  ![Makefile Badge](https://img.shields.io/badge/-Makefile-064F8C?style=flat-square)
+- **Anaconda** 📓  ![Anaconda Badge](https://img.shields.io/badge/-Anaconda-F37626?logo=anaconda&logoColor=white&style=flat-square)
+- **Cuda** ⚙️  ![Cuda Badge](https://img.shields.io/badge/-Cuda-064F8C?style=flat-square)
 - **Ubuntu** 🐧  ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 
 
